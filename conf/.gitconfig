@@ -1,0 +1,4 @@
+[http]
+    sslVerify = false
+[url "https://"]
+    insteadOf = git://
